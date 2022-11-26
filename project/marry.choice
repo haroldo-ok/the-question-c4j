@@ -1,0 +1,23 @@
+* background "bg black.jpg"
+* clear
+* font "damieng.com - Hourglass font.png"
+* cursor "Cursor sprite.png", 1, 1, 3
+
+And so, we become a visual novel creating duo.
+* flush
+
+* background "bg club.jpg"
+
+Over the years, we make lots of games and have a lot of fun making them.
+
+* if book
+	Our first game is based on one of Sylvie's ideas, but afterwards I get to come up with stories of my own, too.
+	* flush
+
+We take turns coming up with stories and characters and support each other to make some great games!
+* flush
+
+And one day...
+* flush
+
+* goto_scene startup
