@@ -1,0 +1,97 @@
+* background "bg black.jpg"
+* clear
+* font "damieng.com - Hourglass font.png"
+* cursor "Cursor sprite.png", 1, 1, 3
+
+And so, we become a visual novel creating duo.
+* flush
+
+* background "bg club.jpg"
+
+Over the years, we make lots of games and have a lot of fun making them.
+
+* if book
+	Our first game is based on one of Sylvie's ideas, but afterwards I get to come up with stories of my own, too.
+	* flush
+
+We take turns coming up with stories and characters and support each other to make some great games!
+* flush
+
+And one day...
+* flush
+
+* image "sylvie blue normal.png", at(16, 8), foreground
+
+Hey...
+* flush
+
+Yes?
+* flush
+
+* image "sylvie blue giggle.png", at(16, 8), foreground
+
+Will you marry me?
+* flush
+
+What? Where did this come from?
+* flush
+
+* image "sylvie blue surprised.png", at(16, 8), foreground
+
+Come on, how long have we been dating?
+* flush
+
+A while...
+* flush
+
+* image "sylvie blue smile.png", at(16, 8), foreground
+
+These last few years we've been making visual novels together, spending time together, helping each other...
+* flush
+
+I've gotten to know you and care about you better than anyone else. And I think the same goes for you, right?
+* flush
+
+Sylvie...
+* flush
+
+* image "sylvie blue giggle.png", at(16, 8), foreground
+
+But I know you're the indecisive type. If I held back, who knows when you'd propose?
+* flush
+
+* image "sylvie blue giggle.png", at(16, 8), foreground
+
+So will you marry me?
+* flush
+
+Of course I will! I've actually been meaning to propose, honest!
+* flush
+
+I know, I know.
+* flush
+
+I guess... I was too worried about timing. I wanted to ask the right question at the right time.
+* flush
+
+* image "sylvie blue giggle.png", at(16, 8), foreground
+
+You worry too much. If only this were a visual novel and I could pick an option to give you more courage!
+* flush
+
+* background "bg black.jpg"
+* clear
+
+We get married shortly after that.
+* flush
+
+Our visual novel duo lives on even after we're married...and I try my best to be more decisive.
+* flush
+
+Together, we live happily ever after even now.
+* flush
+
+Good Ending
+* flush
+
+* goto_scene startup

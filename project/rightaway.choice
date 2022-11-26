@@ -1,0 +1,67 @@
+* image "sylvie green smile.png", at(16, 8), foreground
+
+Hi there! How was class?
+* flush
+
+Good...
+* flush
+
+I can't bring myself to admit that it all went in one ear and out the other.
+* flush
+
+Are you going home now? Wanna walk back with me?
+* flush
+
+Sure!
+* flush
+
+* clear
+* background "bg meadow.jpg"
+
+After a short while, we reach the meadows just outside the neighborhood where we both live.
+* flush
+
+It's a scenic view I've grown used to. Autumn is especially beautiful here.
+* flush
+
+When we were children, we played in these meadows a lot, so they're full of memories.
+* flush
+
+Hey... Umm...
+* flush
+
+* image "sylvie green smile.png", at(16, 8), foreground
+
+She turns to me and smiles. She looks so welcoming that I feel my nervousness melt away.
+* flush
+
+I'll ask her...!
+* flush
+
+Ummm... Will you...
+* flush
+
+Will you be my artist for a visual novel?
+* flush
+
+* image "sylvie green surprised.png", at(16, 8), foreground
+
+Silence.
+* flush
+
+She looks so shocked that I begin to fear the worst. But then...
+* flush
+
+* image "sylvie green smile.png", at(16, 8), foreground
+
+Sure, but what's a 'visual novel?'
+* flush
+
+* choice
+	# It's a videogame.
+		* goto_scene game
+
+	# It's an interactive book.
+		* goto_scene book
+
+* goto_scene startup
