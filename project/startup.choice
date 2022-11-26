@@ -1,5 +1,7 @@
-* title "The Choice - Converted from Ren'Py"
+* title "The Choice - v0.0.1"
 * author "Haroldo O. Pinheiro"
+
+* music "The Drum Run Rave.vgm"
 
 * font "damieng.com - Hourglass font.png"
 * cursor "Cursor sprite.png", 1, 1, 3
