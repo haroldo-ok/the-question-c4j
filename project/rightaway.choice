@@ -1,3 +1,24 @@
-Test.
+* image "sylvie green smile.png", at(16, 7), foreground
+
+Hi there! How was class?
+* flush
+
+Good...
+* flush
+
+I can't bring myself to admit that it all went in one ear and out the other.
+* flush
+
+Are you going home now? Wanna walk back with me?
+* flush
+
+Sure!
+* flush
+
+* clear
+* background "bg meadow.jpg"
+
+After a short while, we reach the meadows just outside the neighborhood where we both live.
+* flush
 
 * goto_scene startup
