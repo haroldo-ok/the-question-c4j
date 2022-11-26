@@ -28,3 +28,18 @@ When we come out of the university, I spot her right away.
 
 I've known Sylvie since we were kids. She's got a big heart and she's always been a good friend to me.
 * flush
+
+But recently... I've felt that I want something more.
+* flush
+
+More than just talking, more than just walking home together when our classes end.
+* flush
+
+As soon as she catches my eye, I decide...
+*flush
+
+* choice
+	# To ask her right away.
+		* goto_scene rightaway
+	# To ask her later.
+		* goto_scene later
