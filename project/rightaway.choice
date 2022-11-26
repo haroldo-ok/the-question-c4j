@@ -1,4 +1,4 @@
-* image "sylvie green smile.png", at(16, 7), foreground
+* image "sylvie green smile.png", at(16, 8), foreground
 
 Hi there! How was class?
 * flush
@@ -30,7 +30,7 @@ When we were children, we played in these meadows a lot, so they're full of memo
 Hey... Umm...
 * flush
 
-* image "sylvie green smile.png", at(16, 7), foreground
+* image "sylvie green smile.png", at(16, 8), foreground
 
 She turns to me and smiles. She looks so welcoming that I feel my nervousness melt away.
 * flush
@@ -44,7 +44,7 @@ Ummm... Will you...
 Will you be my artist for a visual novel?
 * flush
 
-* image "sylvie green surprised.png", at(16, 7), foreground
+* image "sylvie green surprised.png", at(16, 8), foreground
 
 Silence.
 * flush
@@ -52,7 +52,7 @@ Silence.
 She looks so shocked that I begin to fear the worst. But then...
 * flush
 
-* image "sylvie green smile.png", at(16, 7), foreground
+* image "sylvie green smile.png", at(16, 8), foreground
 
 Sure, but what's a 'visual novel?'
 * flush
