@@ -20,6 +20,7 @@ We take turns coming up with stories and characters and support each other to ma
 And one day...
 * flush
 
+* clear foreground
 * image "sylvie blue normal.png", at(16, 8), foreground
 
 Hey...
@@ -28,6 +29,7 @@ Hey...
 Yes?
 * flush
 
+* clear foreground
 * image "sylvie blue giggle.png", at(16, 8), foreground
 
 Will you marry me?
@@ -36,6 +38,7 @@ Will you marry me?
 What? Where did this come from?
 * flush
 
+* clear foreground
 * image "sylvie blue surprised.png", at(16, 8), foreground
 
 Come on, how long have we been dating?
@@ -44,6 +47,7 @@ Come on, how long have we been dating?
 A while...
 * flush
 
+* clear foreground
 * image "sylvie blue smile.png", at(16, 8), foreground
 
 These last few years we've been making visual novels together, spending time together, helping each other...
@@ -55,11 +59,13 @@ I've gotten to know you and care about you better than anyone else. And I think 
 Sylvie...
 * flush
 
+* clear foreground
 * image "sylvie blue giggle.png", at(16, 8), foreground
 
 But I know you're the indecisive type. If I held back, who knows when you'd propose?
 * flush
 
+* clear foreground
 * image "sylvie blue giggle.png", at(16, 8), foreground
 
 So will you marry me?
@@ -74,6 +80,7 @@ I know, I know.
 I guess... I was too worried about timing. I wanted to ask the right question at the right time.
 * flush
 
+* clear foreground
 * image "sylvie blue giggle.png", at(16, 8), foreground
 
 You worry too much. If only this were a visual novel and I could pick an option to give you more courage!
