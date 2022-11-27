@@ -1,5 +1,5 @@
 * clear foreground
-* image "sylvie green smile.png", at(16, 8), foreground
+* image "sylvie green smile.png", at(14, 2), foreground
 
 Hi there! How was class?
 * flush
@@ -32,7 +32,7 @@ Hey... Umm...
 * flush
 
 * clear foreground
-* image "sylvie green smile.png", at(16, 8), foreground
+* image "sylvie green smile.png", at(14, 2), foreground
 
 She turns to me and smiles. She looks so welcoming that I feel my nervousness melt away.
 * flush
@@ -47,7 +47,7 @@ Will you be my artist for a visual novel?
 * flush
 
 * clear foreground
-* image "sylvie green surprised.png", at(16, 8), foreground
+* image "sylvie green surprised.png", at(14, 2), foreground
 
 Silence.
 * flush
@@ -56,7 +56,7 @@ She looks so shocked that I begin to fear the worst. But then...
 * flush
 
 * clear foreground
-* image "sylvie green smile.png", at(16, 8), foreground
+* image "sylvie green smile.png", at(14, 2), foreground
 
 Sure, but what's a 'visual novel?'
 * flush

@@ -2,7 +2,7 @@ It's like an interactive book that you can read on a computer or a console.
 * flush
 
 * clear foreground
-* image "sylvie green surprised.png", at(16, 8), foreground
+* image "sylvie green surprised.png", at(14, 2), foreground
 
 Interactive?
 * flush
@@ -17,7 +17,7 @@ Visual novels have pictures and even music, sound effects, and sometimes voice a
 * flush
 
 * clear foreground
-* image "sylvie green smile.png", at(16, 8), foreground
+* image "sylvie green smile.png", at(14, 2), foreground
 
 I see! That certainly sounds like fun. I actually used to make webcomics way back when, so I've got lots of story ideas.
 * flush

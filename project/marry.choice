@@ -21,7 +21,7 @@ And one day...
 * flush
 
 * clear foreground
-* image "sylvie blue normal.png", at(16, 8), foreground
+* image "sylvie blue normal.png", at(14, 2), foreground
 
 Hey...
 * flush
@@ -30,7 +30,7 @@ Yes?
 * flush
 
 * clear foreground
-* image "sylvie blue giggle.png", at(16, 8), foreground
+* image "sylvie blue giggle.png", at(14, 2), foreground
 
 Will you marry me?
 * flush
@@ -39,7 +39,7 @@ What? Where did this come from?
 * flush
 
 * clear foreground
-* image "sylvie blue surprised.png", at(16, 8), foreground
+* image "sylvie blue surprised.png", at(14, 2), foreground
 
 Come on, how long have we been dating?
 * flush
@@ -48,7 +48,7 @@ A while...
 * flush
 
 * clear foreground
-* image "sylvie blue smile.png", at(16, 8), foreground
+* image "sylvie blue smile.png", at(14, 2), foreground
 
 These last few years we've been making visual novels together, spending time together, helping each other...
 * flush
@@ -60,13 +60,13 @@ Sylvie...
 * flush
 
 * clear foreground
-* image "sylvie blue giggle.png", at(16, 8), foreground
+* image "sylvie blue giggle.png", at(14, 2), foreground
 
 But I know you're the indecisive type. If I held back, who knows when you'd propose?
 * flush
 
 * clear foreground
-* image "sylvie blue giggle.png", at(16, 8), foreground
+* image "sylvie blue giggle.png", at(14, 2), foreground
 
 So will you marry me?
 * flush
@@ -81,7 +81,7 @@ I guess... I was too worried about timing. I wanted to ask the right question at
 * flush
 
 * clear foreground
-* image "sylvie blue giggle.png", at(16, 8), foreground
+* image "sylvie blue giggle.png", at(14, 2), foreground
 
 You worry too much. If only this were a visual novel and I could pick an option to give you more courage!
 * flush
