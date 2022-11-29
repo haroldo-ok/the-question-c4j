@@ -1,7 +1,7 @@
 * title "The Question - v0.0.3"
 * author "Haroldo O. Pinheiro"
 
-* music "The Drum Run Rave.vgm"
+* music "illurock.wav", adpcm
 
 * font "damieng.com - Hourglass font.png"
 * cursor "Cursor sprite.png", 1, 1, 3
