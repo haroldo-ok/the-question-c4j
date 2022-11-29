@@ -1,5 +1,6 @@
 * clear foreground
 * image "sylvie green smile.png", at(14, 2), foreground
+* sound "laughter.wav", adpcm
 
 Hi there! How was class?
 * flush
@@ -33,6 +34,7 @@ Hey... Umm...
 
 * clear foreground
 * image "sylvie green smile.png", at(14, 2), foreground
+* sound "laughter.wav", adpcm
 
 She turns to me and smiles. She looks so welcoming that I feel my nervousness melt away.
 * flush
@@ -48,6 +50,7 @@ Will you be my artist for a visual novel?
 
 * clear foreground
 * image "sylvie green surprised.png", at(14, 2), foreground
+* sound "what.wav", adpcm
 
 Silence.
 * flush
@@ -57,6 +60,7 @@ She looks so shocked that I begin to fear the worst. But then...
 
 * clear foreground
 * image "sylvie green smile.png", at(14, 2), foreground
+* sound "oh is this the kinda thing you're into.wav", adpcm
 
 Sure, but what's a 'visual novel?'
 * flush

@@ -21,6 +21,7 @@ It'd be hard for me to make a visual novel alone.
 
 * clear foreground
 * image "sylvie green normal.png", at(14, 2), foreground
+* sound "okay.wav", adpcm
 
 Well, sure! I can try. I just hope I don't disappoint you.
 * flush
