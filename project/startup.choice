@@ -30,6 +30,7 @@ When we come out of the university, I spot her right away.
 
 * clear foreground
 * image "sylvie green normal.png", at(14, 2), foreground
+* sound "hello.wav", adpcm
 
 I've known Sylvie since we were kids. She's got a big heart and she's always been a good friend to me.
 * flush
