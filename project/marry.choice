@@ -1,7 +1,5 @@
 * background "bg black.jpg"
 * clear
-* font "damieng.com - Hourglass font.png"
-* cursor "Cursor sprite.png", 1, 1, 3
 
 And so, we become a visual novel creating duo.
 * flush
@@ -22,6 +20,7 @@ And one day...
 
 * clear foreground
 * image "sylvie blue normal.png", at(14, 2), foreground
+* sound "hello.wav", adpcm
 
 Hey...
 * flush
@@ -31,6 +30,7 @@ Yes?
 
 * clear foreground
 * image "sylvie blue giggle.png", at(14, 2), foreground
+* sound "laughter.wav", adpcm
 
 Will you marry me?
 * flush
@@ -40,6 +40,7 @@ What? Where did this come from?
 
 * clear foreground
 * image "sylvie blue surprised.png", at(14, 2), foreground
+* sound "what.wav", adpcm
 
 Come on, how long have we been dating?
 * flush
@@ -49,6 +50,7 @@ A while...
 
 * clear foreground
 * image "sylvie blue smile.png", at(14, 2), foreground
+* sound "laughter.wav", adpcm
 
 These last few years we've been making visual novels together, spending time together, helping each other...
 * flush
@@ -61,12 +63,14 @@ Sylvie...
 
 * clear foreground
 * image "sylvie blue giggle.png", at(14, 2), foreground
+* sound "laughter.wav", adpcm
 
 But I know you're the indecisive type. If I held back, who knows when you'd propose?
 * flush
 
 * clear foreground
 * image "sylvie blue giggle.png", at(14, 2), foreground
+* sound "laughter.wav", adpcm
 
 So will you marry me?
 * flush
@@ -82,6 +86,7 @@ I guess... I was too worried about timing. I wanted to ask the right question at
 
 * clear foreground
 * image "sylvie blue giggle.png", at(14, 2), foreground
+* sound "laughter.wav", adpcm
 
 You worry too much. If only this were a visual novel and I could pick an option to give you more courage!
 * flush
@@ -98,6 +103,7 @@ Our visual novel duo lives on even after we're married...and I try my best to be
 Together, we live happily ever after even now.
 * flush
 
+* sound "i love you (confession).wav", adpcm
 Good Ending
 * flush
 
